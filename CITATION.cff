@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Katzy"
+  given-names: "Jonathan"
+  orcid: "https://orcid.org/0009-0005-9574-2414 "
+- family-names: "Izadi"
+  given-names: "Maliheh"
+  orcid: "https://orcid.org/0000-0001-5093-5523"
+- family-names: "van Deursen"
+  given-names: "Arie"
+  orcid: "https://orcid.org/0000-0003-4850-3312"
+title: "On the Impact of Language Selection for Training and Evaluating Programming Language Models"
+version: 0.0.1
+doi: 10.5281/zenodo.1234
+date-released: 2023-08-25
+url: "https://github.com/AISE-TUDelft/PLSimilarity"
